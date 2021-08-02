@@ -1,5 +1,5 @@
-# wordChallenge
-wordChallenge: Será que você consegue ler palavras embaralhadas? esse é o desafio
+# brainChallenge
+brainChallenge: Será que você consegue ler palavras embaralhadas? esse é o desafio
 
 
 Nós homens sapiens somos a única espécie capaz de ler em nosso planeta. Isso você já sabia! Mas você sabia que somos capaz de ler palavras com as letras embaralhadas?
